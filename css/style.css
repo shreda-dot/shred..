@@ -311,7 +311,7 @@ nav {
         margin: 8px 20px;
 
         img {
-            max-width: 200px;
+            max-width: 150px;
         }
     }
 
@@ -321,7 +321,7 @@ nav {
         justify-content: space-evenly;
 
         img {
-            max-width:200px;
+            max-width:180px;
         }
     }
 }
